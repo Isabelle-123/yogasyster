@@ -1,6 +1,6 @@
 # yogasyster
 
-Yogasyster is a homepage for a friend that is newly educated as a yoga teacher. My friend had specifications on what links to have in the navbar, what pictures to use and that it should be earthy colors with some red hints. It is a work in progress and I am still adding features and styles to it.
+Yogasyster is (was) a homepage for a friend that was a newly educated as a yoga teacher. My friend had specifications on what links to have in the navbar, what pictures to use and that it should be earthy colors with some red hints. 
 
 ## 🗄️ Tech stack
 
